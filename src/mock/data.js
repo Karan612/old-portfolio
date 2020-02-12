@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a Full-Stack JavaScript Developer in MEAN & MERN Stack.',
   paragraphTwo: 'Currently in my last semester of George Brown College pursuing Computer Programmer Analyst.',
   paragraphThree: 'I have a professional experience of 1 Year including Freelancing and Professional Projects.',
-  resume: 'https://drive.google.com/file/d/1qvzb4tHA-y2ogxLoDVs_oDuS_WS7dW_m/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/open?id=1g8NHkr5hrT0ppt1LGRvyZhlqDyngtrFC', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
